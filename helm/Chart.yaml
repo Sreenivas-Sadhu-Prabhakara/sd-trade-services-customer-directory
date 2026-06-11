@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-trade-services-customer-directory
+description: "BIAN Service Domain: Trade Services Customer Directory (Catalog pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - catalog
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Trade Banking"
+  bian/asset-type: "Trade Counterparty"
+  bian/control-record: "Trade Counterparty Directory Entry"
